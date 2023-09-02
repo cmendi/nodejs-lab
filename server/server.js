@@ -1,7 +1,7 @@
 const path = require("path");
 const fs = require("fs");
 
-let dataPath = path.join(__dirname, "../chips.json");
+let dataPath = path.join(__dirname, "../chirps.json");
 
 const myChirps = [
 	{
