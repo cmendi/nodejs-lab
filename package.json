@@ -1,0 +1,14 @@
+{
+	"name": "nodejs-lab",
+	"version": "1.0.0",
+	"description": "Node.js Lab",
+	"main": "./server/server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Chris Mendenhall",
+	"license": "MIT",
+	"dependencies": {
+		"request-promise": "^4.2.6"
+	}
+}

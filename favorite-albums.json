@@ -1,0 +1,12 @@
+[
+	{ "album": "Illmatic", "artist": "Nas", "id": 1 },
+	{ "album": "The Miseducation of Lauryn Hill", "artist": "Lauryn Hill", "id": 2 },
+	{ "album": "Enter the Wu-Tang (36 Chambers)", "artist": "Wu-Tang Clan", "id": 3 },
+	{ "album": "Ready to Die", "artist": "The Notorious B.I.G.", "id": 4 },
+	{ "album": "The Chronic", "artist": "Dr. Dre", "id": 5 },
+	{ "album": "Straight Outta Compton", "artist": "N.W.A", "id": 6 },
+	{ "album": "To Pimp a Butterfly", "artist": "Kendrick Lamar", "id": 7 },
+	{ "album": "Paid in Full", "artist": "Eric B. & Rakim", "id": 8 },
+	{ "album": "The Blueprint", "artist": "Jay-Z", "id": 9 },
+	{ "album": "Doggystyle", "artist": "Snoop Dogg", "id": 10 }
+]
